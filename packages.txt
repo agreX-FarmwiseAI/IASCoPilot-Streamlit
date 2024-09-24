@@ -1,0 +1,3 @@
+postgresql 
+postgresql-contrib
+libpq-dev
