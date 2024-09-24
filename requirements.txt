@@ -1,0 +1,9 @@
+streamlit
+Pillow
+boto3
+pgvector
+psycopg2-binary
+langchain-community
+langchain
+langchain-aws
+langchain_postgres
